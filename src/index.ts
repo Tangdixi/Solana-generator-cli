@@ -18,14 +18,14 @@ const InitPrompts = [
   }
 ];
 
-const templateGitUrl = 'https://github.com/luciozhang/koa-ts-template.git';
+const templateGitUrl = 'https://github.com/Tangdixi/koa-ts-template.git';
 let downloadPath = null;
 
 const program = new Command();
 
 program
-  .name('koa-generator-cli')
-  .description('"Koa2+TypeScript application generator')
+  .name('Solana-generator-cli')
+  .description('"Solana application generator')
   .version('0.0.1');
 
 program
