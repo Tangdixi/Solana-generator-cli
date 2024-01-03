@@ -18,7 +18,7 @@ const InitPrompts = [
   }
 ];
 
-const templateGitUrl = 'https://github.com/Tangdixi/koa-ts-template.git';
+const templateGitUrl = 'https://github.com/Tangdixi/Solana-ts-template';
 let downloadPath = null;
 
 const program = new Command();
