@@ -1,6 +1,6 @@
 {
   "name": "solana-generator-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Solana+TypeScript application generator",
   "repository": "https://github.com/Tangdixi/Solana-generator-cli",
 	"funding": "https://github.com/Tangdixi/Solana-generator-cli",
