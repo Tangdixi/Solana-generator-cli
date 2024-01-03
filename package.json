@@ -1,5 +1,5 @@
 {
-  "name": "Solana-generator-cli",
+  "name": "solana-generator-cli",
   "version": "0.0.1",
   "description": "Solana+TypeScript application generator",
   "repository": "https://github.com/Tangdixi/Solana-generator-cli",
