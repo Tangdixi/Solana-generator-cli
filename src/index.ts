@@ -30,7 +30,7 @@ program
 
 program
   .command('init <name>')
-  .description('init a koa project')
+  .description('init a Solana project')
   .action(async (name: string) => {
     downloadPath = `./${name}`;
     const initOptions = await inquirer.prompt(InitPrompts);

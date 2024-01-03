@@ -6,7 +6,7 @@
 	"funding": "https://github.com/Tangdixi/Solana-generator-cli",
   "main": "lib/index.js",
   "bin": {
-    "koa-generator-cli": "lib/index.js"
+    "solana-generator-cli": "lib/index.js"
   },
   "scripts": {
     "dev": "tsc && node lib/index.js",
